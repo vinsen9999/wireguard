@@ -238,8 +238,8 @@ function start_menu(){
     clear
     green "==============================================="
     green " 介绍: wireguard, 增加wireguard多用户"
-    green " Telegram: Vinsen99"
-    green " 作者: Vinsen"
+    green " Telegram: @Vinsen99"
+    green " 联系Vinsen"
     green " 提示: 脚本安装过程中会升级内核，请勿生产环境使用"
     green "==============================================="
     green "1. 安装wireguard"
