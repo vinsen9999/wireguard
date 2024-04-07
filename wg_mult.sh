@@ -237,9 +237,9 @@ function remove_wg(){
 function start_menu(){
     clear
     green "==============================================="
-    green " 介绍: 一键安装wireguard, 增加wireguard多用户"
-    green " 系统: Centos7+/Ubuntu18.04+/Debian9+"
-    green " 作者: atrandys www.atrandys.com"
+    green " 介绍: wireguard, 增加wireguard多用户"
+    green " Telegram: Vinsen99"
+    green " 作者: Vinsen"
     green " 提示: 脚本安装过程中会升级内核，请勿生产环境使用"
     green "==============================================="
     green "1. 安装wireguard"
